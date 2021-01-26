@@ -10,13 +10,12 @@ ms.author: antonla
 # Set-SPOOrgNewsSite
 
 ## SYNOPSIS
-Marks a site as one of multile possible tenant's organizational news sites. Requires Tenant administrator permissions.
+Marks a site as one of multiple possible tenant's organizational news sites. Requires Tenant administrator permissions.
 
 ## SYNTAX
 
 ```powershell
-Set-SPOOrgNewsSite -OrgNewsSiteUrl <string>
-  [<CommonParameters>]
+Set-SPOOrgNewsSite -OrgNewsSiteUrl <string> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
